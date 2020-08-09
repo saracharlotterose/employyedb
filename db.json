@@ -1,22 +1,16 @@
 {
-
-{
-"name": "chloe"
-"role" : "manager"
-"department" : "sales"
-},
-{
-"name": "elli"
-"role" : "manager"
-"department" : "sales"
-},
-{
-"name": "dan"
-"role" : "manager"
-"department" : "sales"
-},
-
-
-
-
+    "employees": [
+        {
+            "name": "luke",
+            "department": "cs"
+        },
+        {
+            "name": "sara",
+            "department": "cs"
+        },
+        {
+            "name": "bob",
+            "department": "hr"
+        }
+    ]
 }
