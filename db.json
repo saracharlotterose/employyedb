@@ -1,0 +1,22 @@
+{[
+
+{
+"name": "chloe"
+"role" : "manager"
+"department" : "sales"
+},
+{
+"name": "elli"
+"role" : "manager"
+"department" : "sales"
+},
+{
+"name": "dan"
+"role" : "manager"
+"department" : "sales"
+},
+
+
+]
+
+}
