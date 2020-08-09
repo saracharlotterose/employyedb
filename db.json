@@ -1,16 +1,11 @@
 {
-    "employees": [
-        {
-            "name": "luke",
-            "department": "cs"
-        },
-        {
-            "name": "sara",
-            "department": "cs"
-        },
-        {
-            "name": "bob",
-            "department": "hr"
-        }
-    ]
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
